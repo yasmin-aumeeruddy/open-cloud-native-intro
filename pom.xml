@@ -80,7 +80,7 @@
             </plugin>
             <plugin>
                 <groupId>io.openliberty.tools</groupId>
-                <artifactId>liberty-maven-app-parent</artifactId>
+                <artifactId>liberty-maven-plugin</artifactId>
                 <configuration>
                     <assemblyArtifact>
                         <groupId>io.openliberty</groupId>
